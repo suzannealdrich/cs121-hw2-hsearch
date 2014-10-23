@@ -1,0 +1,9 @@
+Suzanne Aldrich
+aigeanta@cs.stanford.edu
+
+You can pick a heuristic in the commandline:
+hsearch <datafile> [0|1|2]
+
+2 is automatically picked because it's the best
+1 is a simple heuristic
+0 is uniform cost search
